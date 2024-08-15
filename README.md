@@ -1,0 +1,1 @@
+# DetailedView-static
